@@ -21,5 +21,5 @@ def generateResult(request):
 	word = request.POST.get('word')
 	db.set({"item": word})
 	item = db.child("item").get().val()
-	print(item)
 	return render(request, "response.html", {"data": item})
+
