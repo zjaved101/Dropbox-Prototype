@@ -1,3 +1,6 @@
+# Relocated Repository
+https://github.com/vikr01/place-replica
+
 # Versions
 * python 3.6.3
     - pip 10.0.1
