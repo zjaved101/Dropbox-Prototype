@@ -6,12 +6,7 @@ import pyrebase
 import random
 
 CONFIG  = {
-	'apiKey': 'AIzaSyA70V9nqwo5U_mVo4mr8YKprrMyeMaTvuw',
-	'authDomain': 'r-place-project.firebaseapp.com',
-	'databaseURL': 'https://r-place-project.firebaseio.com',
-	'projectId': 'r-place-project',
-	'storageBucket': 'r-place-project.appspot.com',
-	'messagingSenderId': '115418004367'
+	'databaseURL': 'https://r-place-project.firebaseio.com'
 }
 
 DATABASE_SIZE = 100
